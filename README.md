@@ -1,7 +1,7 @@
 ### Hi there, I'm Emre👋
 
 - 🌱 I’m currently learning Flutter.
-- 👯 I'm looking to collaborate on developing mobile applications, working on web development projects, and creating exciting software projects.
+- 👯 I'm looking to collaborate on developing mobile applications, working on web development projects and creating exciting software projects.
 - 📫 How to reach me: iemrebulutt@gmail.com
 - ⚡ Fun fact: I like camping, cycling, reading books
 
