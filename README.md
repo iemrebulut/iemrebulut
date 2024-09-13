@@ -5,7 +5,7 @@
 - 📫 How to reach me: iemrebulutt@gmail.com
 - ⚡ Fun fact: I like camping, cycling, reading books
 
-⏲ What we are doing now:
+⏲ What am I doing now:
 - 👨🏼‍🤝‍👨🏻 I'm developing projects with PHP, Node.js, and Vue.js with my team.
 - ⚡ I love working remotely,
 - 💻 I also work as a Freelancer.
