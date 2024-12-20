@@ -28,3 +28,7 @@
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 </p> 
+
+<div align="center"> 
+ <img src="https://github-readme-stats-sand-tau-25.vercel.app/api/top-langs/?username=iemrebulut&layout=compact&hide=scss,hack,html,css,blade,tsql,cmake,c,kotlin,smarty,objective-c&langs_count=20" alt="Top Languages" /> 
+</div>
