@@ -5,7 +5,7 @@
 - ⚡ Fun fact: I like camping, cycling, reading books
 
 ⏲ What am I doing now:
-- 👨🏼‍🤝‍👨🏻 I'm developing projects with PHP, Node.js, Vue.js and Flutter with my team.
+- 👨🏼‍🤝‍👨🏻 I'm developing projects with Flutter, Php, Node.js, Vue.js, React.js and .NET with my team.
 - ⚡ I love working remotely,
 - 💻 I also work as a Freelancer.
 
